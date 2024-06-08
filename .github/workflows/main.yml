@@ -17,7 +17,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
           server: ftp.rokkhi.com.bd
-          username: githubaction
+          username: githubaction@rokkhi.com
           password: Ftp@123123
           server-dir: /dev.rokkhi.com/
 
