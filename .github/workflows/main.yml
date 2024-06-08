@@ -19,5 +19,5 @@ jobs:
           server: ftp.rokkhi.com.bd
           username: githubaction@rokkhi.com
           password: Ftp@123123
-          server-dir: /home/rokkhi.com/dev.rokkhi.com/
+          server-dir: /home/rokkhicom/dev.rokkhi.com/
 
